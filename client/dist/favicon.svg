@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- House body -->
+  <rect x="10" y="32" width="44" height="26" fill="#000000"/>
+  <!-- Roof -->
+  <polygon points="4,34 32,6 60,34" fill="#000000"/>
+  <!-- Door -->
+  <rect x="24" y="44" width="16" height="14" fill="#ffffff"/>
+  <!-- Windows -->
+  <rect x="12" y="38" width="10" height="10" fill="#ffffff"/>
+  <rect x="42" y="38" width="10" height="10" fill="#ffffff"/>
+</svg>

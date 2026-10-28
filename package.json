@@ -1,0 +1,22 @@
+{
+  "name": "interior-end-to-end",
+  "version": "1.0.0",
+  "description": "Minimalist Interior Design AI Suite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "client-dev": "npm run dev --prefix client",
+    "client-build": "npm run build --prefix client"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "systeminformation": "^5.31.3",
+    "uuid": "^9.0.1"
+  }
+}
